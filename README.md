@@ -17,7 +17,7 @@ Excel, Power BI
 - Used the results to decide how much to invest in each set going forward
 
 ## Key findings
-- Selling as complete sets beats selling individually on every set — $96K expected 
+- Selling as complete sets beats selling individually on every set, $96K expected 
   value vs. $75K, a 28% difference, on a $32K investment
 - Kumamoto Special had the best ROI (335%) thanks to a high CGC 10 rate
 - Base Shop Collection got the largest quantity because 
